@@ -38,3 +38,8 @@ p {
 button {
   margin: 20px;
 }
+/* Add your CSS styling here if needed */
+.selected {
+    border: 2px solid red;
+}
+
